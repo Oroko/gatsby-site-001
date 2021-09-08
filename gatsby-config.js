@@ -4,7 +4,7 @@ module.exports = {
     title: "gatsby-site-001",
   },
   plugins: [
-    "gatsby-plugin-gatsby-cloud",
+    
     "gatsby-plugin-image",
     "gatsby-plugin-sharp",
   ],
